@@ -1,0 +1,33 @@
+# Build folders
+/build/
+/bin/
+/obj/
+/Makefile
+/CMakeFiles/
+/CMakeCache.txt
+
+# Qt creator
+*.pro.user
+*.qbs.user
+*.moc
+*.qmlc
+*.rcc
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup/temporary files
+*.swp
+*.tmp
+*.log
+
+# Generated files
+ui_*.h
+moc_*.cpp
+qrc_*.cpp
